@@ -4,4 +4,7 @@ I'm a software engineer currently working at [🚀 LogRocket](https://logrocket.
 Before that, I worked on launching the world's most distributed cloud at [🌊 Akamai](https://www.akamai.com/cloud). With over 4,000 edge regions in 130 countries, Akamai lets developers deploy at unprecedented proximity to their customers for latency-sensitive applications like streaming, gaming and communication.
 
 ## Get in touch!
-I'd love to chat — feel free to drop a message at hussain[at]sanpilot.co.
+I'd love to chat — feel free to leave me a message.
+
+✉️ hussain (at) sanpilot.co
+🔗 [in/hussainmkhalil](https://www.linkedin.com/in/hussainmkhalil/)
